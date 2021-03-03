@@ -4,7 +4,7 @@
 /* BASIC */
 
 html {
-  background-color: #56baed;
+  background-color: #212F3D;
 }
 
 body {
@@ -85,7 +85,7 @@ h2.active {
 
 input[type=button], input[type=submit], input[type=reset]  {
   cursor: pointer;
-  background-color: #56baed;
+  background-color: #58CC73;
   border: none;
   color: white;
   padding: 15px 80px;
@@ -107,7 +107,7 @@ input[type=button], input[type=submit], input[type=reset]  {
 }
 
 input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover  {
-  background-color: #39ace7;
+  background-color: #1DAC1D;
 }
 
 input[type=button]:active, input[type=submit]:active, input[type=reset]:active  {
@@ -146,7 +146,7 @@ input[type=text],input[type=password] {
 
 input[type=text]:focus,input[type=password]:focus {
   background-color: #fff;
-  border-bottom: 2px solid #5fbae9;
+  border-bottom: 2px solid #58CC73;
 }
 
 input[type=text]:placeholder {
@@ -252,7 +252,7 @@ label.validation-message{
   bottom: -10px;
   width: 0;
   height: 2px;
-  background-color: #56baed;
+  background-color: #58CC73;
   content: "";
   transition: width 0.2s;
 }
